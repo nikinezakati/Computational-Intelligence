@@ -6,7 +6,7 @@ mlp-from-scratch: Implementing multilayer perceptron from scratch for classifica
 
 kohonen-som-rbf: Implementing Kohonen and RBF models for classification problems. 
 
-hopfield: Implementing Hopfield network on Fashion MNIST and for TSP problem.
+hopfield: Implementing Hopfield network for Fashion MNIST and TSP problem.
 
 fuzzy-controller: Implementing a fuzzy logic controller for predicting of a football match result.
 
