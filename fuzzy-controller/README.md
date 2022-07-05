@@ -1,4 +1,4 @@
 # Fuzzy Controller
 -----------------------------
-Implementing a fuzzy logic controller for predicting a football match result.
+Implementing a fuzzy logic controller for predicting a football match's result.
 
